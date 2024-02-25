@@ -18,4 +18,4 @@ I did this to demonstrate how Java can be used with Visual Studio Code, and to u
 
 # Future Work
 
-In the future I want to add more phrases when the user is close to the number to guess.
+In the future I want to add more phrases when the user is close to the number to guess, and I also want to add a way for users to load their data.
